@@ -1,4 +1,4 @@
 cerita 1 belum di edit, terdiri dari  bagian :
-1. cerita pertama
-2. cerita kedua
-3. cerita ketiga
+1. cerita pertama, sekarang sudah di edit oleh branch anangk
+2. cerita kedua, sekarang sudah di edit oleh branch anangk
+3. cerita ketiga, sekarang sudah di edit oleh branch anangk
