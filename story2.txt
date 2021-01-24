@@ -1,4 +1,4 @@
 ini cerita ke dua dalam proses belajar github, berisi bebenarapa bagian :
-1. Bagia 1 cerita story2
-2. Bagian 2 cerita story2
-3. Bagian 3 cerita story2
+1. Bagia 1 cerita story2, editan pertama oleh branch master
+2. Bagian 2 cerita story2, editan pertama oleh branch master
+3. Bagian 3 cerita story2, editan pertama oleh branch master
